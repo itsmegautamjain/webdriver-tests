@@ -1,1 +1,1 @@
-ample test file
+sample test file
